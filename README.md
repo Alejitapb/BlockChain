@@ -39,12 +39,13 @@ BlockChain/
 ```
 
 ## 🎨 Paleta de Colores Oficial
-| Color              | Muestra                                                 | Código     | Uso                  |
-|-------------------|---------------------------------------------------------|------------|-----------------------|
-| Rojo Profundo      | ![](https://via.placeholder.com/15/56070c/56070c.png) | `#56070c` | Títulos y acentos       |
-| Marrón Oscuro      | ![#7a5c3c](https://via.placeholder.com/15/7a5c3c/7a5c3c.png) | `#7a5c3c` | Fondos principales       |
-| Marrón Claro       | ![#b08e6b](https://via.placeholder.com/15/b08e6b/b08e6b.png) | `#b08e6b` | Botones y resaltados     |
-| Beige Suave        | ![#e8c39e](https://via.placeholder.com/15/e8c39e/e8c39e.png) | `#e8c39e` | Fondos secundarios       |
+
+| Color           | Muestra                                                                 | Código     | Uso                    |
+|----------------|-------------------------------------------------------------------------|------------|------------------------|
+| Rojo Profundo  | <img src="https://via.placeholder.com/15/56070c/56070c.png" alt="#56070c" /> | `#56070c`  | Títulos y acentos      |
+| Marrón Oscuro  | <img src="https://via.placeholder.com/15/7a5c3c/7a5c3c.png" alt="#7a5c3c" /> | `#7a5c3c`  | Fondos principales     |
+| Marrón Claro   | <img src="https://via.placeholder.com/15/b08e6b/b08e6b.png" alt="#b08e6b" /> | `#b08e6b`  | Botones y resaltados   |
+| Beige Suave    | <img src="https://via.placeholder.com/15/e8c39e/e8c39e.png" alt="#e8c39e" /> | `#e8c39e`  | Fondos secundarios     |
 
 ---
 
