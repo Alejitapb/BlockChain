@@ -41,7 +41,7 @@ BlockChain/
 ## 🎨 Paleta de Colores Oficial
 | Color              | Muestra                                                 | Código     | Uso                  |
 |-------------------|---------------------------------------------------------|------------|-----------------------|
-| Rojo Profundo      | ![#56070c](https://via.placeholder.com/15/56070c/56070c.png) | `#56070c` | Títulos y acentos       |
+| Rojo Profundo      | ![](https://via.placeholder.com/15/56070c/56070c.png) | `#56070c` | Títulos y acentos       |
 | Marrón Oscuro      | ![#7a5c3c](https://via.placeholder.com/15/7a5c3c/7a5c3c.png) | `#7a5c3c` | Fondos principales       |
 | Marrón Claro       | ![#b08e6b](https://via.placeholder.com/15/b08e6b/b08e6b.png) | `#b08e6b` | Botones y resaltados     |
 | Beige Suave        | ![#e8c39e](https://via.placeholder.com/15/e8c39e/e8c39e.png) | `#e8c39e` | Fondos secundarios       |
