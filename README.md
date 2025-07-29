@@ -53,7 +53,7 @@ BlockChain/
 
 - **Nombre:** Alejandra Pabón
 - **📌 Ficha:** 2885494
-- **📧 Correo:** email@ejemplo.com
+- **📧 Correo:** pabonalejandra8@gmail.com
 
 ---
 
