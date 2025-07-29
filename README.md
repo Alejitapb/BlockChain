@@ -40,12 +40,12 @@ BlockChain/
 
 ## 🎨 Paleta de Colores Oficial
 
-| Color           | Muestra                                          | Código     | Uso                    |
-|----------------|--------------------------------------------------|------------|------------------------|
-| Rojo Profundo  | <span style="[display:inline-block;width:20px;height:20px;background-color:#56070c;border-radius:3px](https://encycolorpedia.es/56070c.svg);"></span> | `#56070c`  | Títulos y acentos      |
-| Marrón Oscuro  | <span style="display:inline-block;width:20px;height:20px;background-color:#7a5c3c;border-radius:3px;"></span> | `#7a5c3c`  | Fondos principales     |
-| Marrón Claro   | <span style="display:inline-block;width:20px;height:20px;background-color:#b08e6b;border-radius:3px;"></span> | `#b08e6b`  | Botones y resaltados   |
-| Beige Suave    | <span style="display:inline-block;width:20px;height:20px;background-color:#e8c39e;border-radius:3px;"></span> | `#e8c39e`  | Fondos secundarios     |
+| Color           | Muestra                                                | Código     | Uso                    |
+|----------------|--------------------------------------------------------|------------|------------------------|
+| Rojo Profundo  | ![Rojo](https://raw.githubusercontent.com/alejandrapabon-colores/colores/main/56070c.png) | `#56070c`  | Títulos y acentos      |
+| Marrón Oscuro  | ![Marrón Oscuro](https://raw.githubusercontent.com/alejandrapabon-colores/colores/main/7a5c3c.png) | `#7a5c3c`  | Fondos principales     |
+| Marrón Claro   | ![Marrón Claro](https://raw.githubusercontent.com/alejandrapabon-colores/colores/main/b08e6b.png) | `#b08e6b`  | Botones y resaltados   |
+| Beige Suave    | ![Beige Suave](https://raw.githubusercontent.com/alejandrapabon-colores/colores/main/e8c39e.png) | `#e8c39e`  | Fondos secundarios     |
 
 ---
 
