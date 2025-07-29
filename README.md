@@ -40,13 +40,13 @@ BlockChain/
 
 ## 🎨 Paleta de Colores Oficial
 
-
 | Color           | Muestra                                                                 | Código     | Uso                    |
 |----------------|-------------------------------------------------------------------------|------------|------------------------|
-| Rojo Profundo  | ![Rojo Profundo](https://encycolorpedia.es/56070c.svg)                  | `#56070c`  | Títulos y acentos      |
-| Marrón Oscuro  | ![Marrón Oscuro](https://www.colorhexa.com/7a5c3c.png)                  | `#7a5c3c`  | Fondos principales     |
-| Marrón Claro   | ![Marrón Claro](https://www.colorhexa.com/b08e6b.png)                   | `#b08e6b`  | Botones y resaltados   |
-| Beige Suave    | ![Beige Suave](https://www.colorhexa.com/e8c39e.png)                    | `#e8c39e`  | Fondos secundarios     |
+| Rojo Profundo  | <img src="https://www.colorhexa.com/56070c.png" width="20" height="20" style="border:1px solid #ccc;" /> | `#56070c`  | Títulos y acentos      |
+| Marrón Oscuro  | <img src="https://www.colorhexa.com/7a5c3c.png" width="20" height="20" style="border:1px solid #ccc;" /> | `#7a5c3c`  | Fondos principales     |
+| Marrón Claro   | <img src="https://www.colorhexa.com/b08e6b.png" width="20" height="20" style="border:1px solid #ccc;" /> | `#b08e6b`  | Botones y resaltados   |
+| Beige Suave    | <img src="https://www.colorhexa.com/e8c39e.png" width="20" height="20" style="border:1px solid #ccc;" /> | `#e8c39e`  | Fondos secundarios     |
+
 
 ---
 
